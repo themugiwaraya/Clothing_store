@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";  
+const API_URL = "https://clothing-store-g5qx.onrender.com";  
 
 async function signup() {
     const username = document.getElementById("signupUsername").value;

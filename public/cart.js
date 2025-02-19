@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";  
+const API_URL = "https://clothing-store-g5qx.onrender.com";  
 
 window.addToCart = async function addToCart(productId, name, price, image_url, url) {
     const token = localStorage.getItem("token");
