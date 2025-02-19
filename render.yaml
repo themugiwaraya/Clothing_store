@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: flask-backend
+    runtime: python
+    env: python
+    region: frankfurt
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "bash start.sh"
+    envVars:
+      - key: MONGO_URI
+      - key: JWT_SECRET_KEY
+        generateValue: true
