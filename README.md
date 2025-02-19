@@ -1,6 +1,6 @@
 # Clothing Store API
 
-## 👤 Developers: Alibi & Team
+## 👤 Developers: Alibi 
 
 ### 📌 Overview
 This project is a REST API for a clothing store, built with Flask and MongoDB. The API enables user authentication, product management, shopping cart functionality, and order processing.
