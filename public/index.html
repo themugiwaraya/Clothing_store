@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clothing Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Clothing Store</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">🏠 Home</a></li>
+                <li><a href="cart.html">🛒 Cart </a></li>
+                <li><a href="profile.html">👤 Profile </a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="adminSection" style="display: none;">
+        <h2>Manage Products</h2>
+        
+        <!-- Форма для создания нового товара -->
+        <h3>Add Product</h3>
+        <form id="productForm">
+            <input type="text" id="productName" placeholder="Product Name" required>
+            <input type="number" id="productPrice" placeholder="Product Price" required>
+            <input type="url" id="productImage" placeholder="Product Image URL" required>
+
+            <!-- ✅ Добавлен выбор категории -->
+            <select id="productCategory" required>
+                <option value="" disabled selected>Select Category</option>
+                <option value="sweatshirts">Sweatshirts</option>
+                <option value="hoodies">Hoodies</option>
+                <option value="top">Top</option>
+                <option value="t-shirts">T-Shirts</option>
+                <option value="bottom">Bottom</option>
+                <option value="headwear">Headwear</option>
+                <option value="bags">Bags</option>
+                <option value="kids">Kids</option>
+                <option value="accessories">Accessories</option>
+            </select>
+
+            <button type="submit">Create</button>
+        </form>        
+
+        <!-- Форма для обновления товара -->
+        <h3>Update Product</h3>
+        <form id="updateForm">
+            <input type="text" id="updateProductId" placeholder="Product ID" required>
+            <input type="text" id="updateProductName" placeholder="Product Name">
+            <input type="number" id="updateProductPrice" placeholder="Product Price">
+            <input type="url" id="updateProductImage" placeholder="Product Image URL">
+            <select id="updateProductCategory">
+                <option value="" disabled selected>Select Category</option>
+                <option value="sweatshirts">Sweatshirts</option>
+                <option value="hoodies">Hoodies</option>
+                <option value="top">Top</option>
+                <option value="t-shirts">T-Shirts</option>
+                <option value="bottom">Bottom</option>
+                <option value="headwear">Headwear</option>
+                <option value="bags">Bags</option>
+                <option value="kids">Kids</option>
+                <option value="accessories">Accessories</option>
+            </select>
+            <button type="submit">Update</button>
+        </form>        
+
+        <button onclick="loadProducts()">Refresh List</button>
+    </section>
+    <main>
+        <h2>Available Products</h2>
+        <label for="categoryFilter">Filter by Category:</label>
+    <select id="categoryFilter">
+        <option value="all">All Categories</option>
+        <option value="sweatshirts">Sweatshirts</option>
+        <option value="hoodies">Hoodies</option>
+        <option value="top">Top</option>
+        <option value="t-shirts">T-Shirts</option>
+        <option value="bottom">Bottom</option>
+        <option value="headwear">Headwear</option>
+        <option value="bags">Bags</option>
+        <option value="kids">Kids</option>
+        <option value="accessories">Accessories</option>
+    </select>
+
+        <div id="products"></div>
+    </main>
+    
+    <script src="app.js"></script>
+    <script src="cart.js"></script>   
+</body>
+</html>
