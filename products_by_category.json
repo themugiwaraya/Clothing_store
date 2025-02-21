@@ -1,0 +1,956 @@
+{
+    "sweatshirts": [
+        {
+            "id": "1450",
+            "name": "КЕҢЖЕЙДЕ qazaq republic КӨК",
+            "price": "18000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirtwrqr-sblack-ae66ec73c0-d1f4bab7c50027c59209b4c1d633d552.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1450",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1443",
+            "name": "КЕҢЖЕЙДЕ EST.1465 ҚОЮ САРЫ",
+            "price": "18000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/coach-jacket-sand-2-ce227fd18b-83f7b85680607835180322d56df001f1.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1443",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1436",
+            "name": "КЕҢЖЕЙДЕ EST.1465 САРҒЫШ",
+            "price": "18000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/cargo-black-2cb8e828c9-1abd75b956f04ec874c383d4d3c791a5.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1436",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1431",
+            "name": "КЕҢЖЕЙДЕ EST.1465 ЖАСЫЛ",
+            "price": "18000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodieksmint-0ecbe42f09-e1230c8a95146ea645d30291b6f25187.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1431",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1455",
+            "name": "КЕҢЖЕЙДЕ WRQ АШЫҚ КӨК",
+            "price": "20000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/web-somke-aspaly-qrep-blue-7a3d564178-5fb25f8277e85ce3ccec96555c1c6cd4.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1455",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1448",
+            "name": "КЕҢЖЕЙДЕ WRQ КӨК",
+            "price": "20000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/backt-shirtskatemint-2376203c51-3394ac962d50c9f89477089ae3fe965f.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1448",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1460",
+            "name": "КЕҢЖЕЙДЕ REPUBLIC ҚОЮ КӨК",
+            "price": "20000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirt-senbi-club-gray-melan-ea849eba8e-958c068df13ad7a8b5c174fe5495f30e.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1460",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1462",
+            "name": "КЕҢЖЕЙДЕ REPUBLIC ҚОЮ САРЫ",
+            "price": "20000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/we-are-qrblack-e6aa6421a5-6f4f3e1586e30f0b2b1fcee1b8750db3.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1462",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1461",
+            "name": "КЕҢЖЕЙДЕ WRQ АҚ",
+            "price": "18000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/overfit-sweat-black-43b45ee864-af0eaab7f33306862e9eb9f15820d531.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1461",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1427",
+            "name": "КЕҢЖЕЙДЕ WRQ ҚАРА",
+            "price": "18000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirttungi-saparback-30aeb0beed-d766450d3a1dba307c34b1c6a2407230.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1427",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1451",
+            "name": "КЕҢЖЕЙДЕ MDRN ҚАРА",
+            "price": "20000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodie-wrq-beige-9cbe0a54bd-455d7b5a8632eb4c51483dbe2bd66555.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1451",
+            "category": "sweatshirts"
+        },
+        {
+            "id": "1446",
+            "name": "КЕҢЖЕЙДЕ TÜNGI SAPAR АҚ",
+            "price": "20000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/dzogger-81a3eb5f59-f888fc40b8feee53d21ab423fcaa297c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/sweatshirts/1446",
+            "category": "sweatshirts"
+        }
+    ],
+    "hoodies": [
+        {
+            "id": "1422",
+            "name": "БҮРЖЕЙДЕ BORN QAZAQ ҚОЮ ҚЫЗЫЛ",
+            "price": "24000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-polo-beige-fd7b4cb10f-916afbadd7b9655cd50573183c9ea52c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1422",
+            "category": "hoodies"
+        },
+        {
+            "id": "1411",
+            "name": "БҮРЖЕЙДЕ PUPPY ҚОЮ ҚЫЗЫЛ",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/wide-asty-khaki-6989227a87-8f9460a9a329b88030bd347260a7293c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1411",
+            "category": "hoodies"
+        },
+        {
+            "id": "1412",
+            "name": "БҮРЖЕЙДЕ PUPPY КӨК",
+            "price": "24000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/t-shirt-zipp-dark-2-994ac128cd-dcc1080788248ca4831dbe63f38a8709.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1412",
+            "category": "hoodies"
+        },
+        {
+            "id": "1419",
+            "name": "БҮРЖЕЙДЕ KÖP SÖZ КӨК",
+            "price": "24000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/swaeter-bari-jaqsy-bolady-beige-d1dc78da20-0925d55ec5a33c7fbcce358f056b71c5.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1419",
+            "category": "hoodies"
+        },
+        {
+            "id": "1415",
+            "name": "БҮРЖЕЙДЕ KÖP SÖZ ҚАРА",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodieskatebeigeback-936ea60641-41ec30d7ddf31abcbe079f20b87d4c06.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1415",
+            "category": "hoodies"
+        },
+        {
+            "id": "1425",
+            "name": "БҮРЖЕЙДЕ WRQ САРҒЫШ",
+            "price": "22000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirtqrllilac-9485f5005f-27e6f261ae8553c98cc416803f07176f.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1425",
+            "category": "hoodies"
+        },
+        {
+            "id": "1409",
+            "name": "БҮРЖЕЙДЕ WRQ ҚОЮ КӨК",
+            "price": "22000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/coach-jacket-blue-2-6d84dfab9a-927567cad7796a7bfa913ef7afa6db6d.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1409",
+            "category": "hoodies"
+        },
+        {
+            "id": "1418",
+            "name": "БҮРЖЕЙДЕ BORN QAZAQ ҚОЮ КӨК",
+            "price": "24000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/vest-army-blue-2-7454a6dd69-1e339eae3ddd91349a4b5cd3825703f6.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1418",
+            "category": "hoodies"
+        },
+        {
+            "id": "1422",
+            "name": "БҮРЖЕЙДЕ BORN QAZAQ ҚОЮ ҚЫЗЫЛ",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-tee-qrl-blue-39c8ad6fba-8826d0eb38bce35b1c4d02a0f2a189e5.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1422",
+            "category": "hoodies"
+        },
+        {
+            "id": "1420",
+            "name": "БҮРЖЕЙДЕ SOCIETY САРҒЫШ",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodie-bq-navy-41d639ef5b-4c0c5bfd3c325ced4e161500935c5e65.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1420",
+            "category": "hoodies"
+        },
+        {
+            "id": "1424",
+            "name": "БҮРЖЕЙДЕ SOCIETY ҚАРА",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/socks-long-qrep-blue-27c398c895-a9a872bf2d0f0454a8dba429a2614cb9.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1424",
+            "category": "hoodies"
+        },
+        {
+            "id": "1426",
+            "name": "БҮРЖЕЙДЕ WRQ САРҒЫШ",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirt1465beige-77f95d9260-b39f1e50a69f954cd14bcf8d3b829244.jpeg",
+            "url": "https://qazaqrepublic.com/shop/hoodies/1426",
+            "category": "hoodies"
+        }
+    ],
+    "top": [
+        {
+            "id": "1352",
+            "name": "КҮРТЕ COACH ҚЫЗҒЫЛТ САРЫ",
+            "price": "25600₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirtqrlgreen-e3ba7fb165-4f7e6652314d6a8878792cb6368baf62.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1352",
+            "category": "top"
+        },
+        {
+            "id": "1350",
+            "name": "КҮРТЕ COACH ХАКИ",
+            "price": "32000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/ss-23-kepka-green-2f8ac15ac9-51e674b01e77ae52e1768322517cc45f.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1350",
+            "category": "top"
+        },
+        {
+            "id": "1354",
+            "name": "КҮРТЕ COACH ҚАРА",
+            "price": "32000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-tee-qrl-black-0a71cf8d28-8826d0eb38bce35b1c4d02a0f2a189e5.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1354",
+            "category": "top"
+        },
+        {
+            "id": "1206",
+            "name": "КҮРТЕ COACH ҚОЮ КӨК",
+            "price": "21000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/pouch-beige-2-c7375bc42a-a35a866e792394f2168209452fc3abac.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1206",
+            "category": "top"
+        },
+        {
+            "id": "1208",
+            "name": "КҮРТЕ COACH ҚҰМ ТҮСТЕС",
+            "price": "21000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/training-pants-3-3e8022a206-dbbea62ab43840b7c3d843306ac25a16.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1208",
+            "category": "top"
+        },
+        {
+            "id": "1348",
+            "name": "БОМБЕР OVERFIT КОЮ ЖАСЫЛ",
+            "price": "35000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirt-green-2-6aef72467e-68ad8ca009c5bbef094549159a3e8861.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1348",
+            "category": "top"
+        },
+        {
+            "id": "1355",
+            "name": "БОМБЕР OVERFIT ҚОЮ КӨК",
+            "price": "35000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodiebqdark-blue-37346edc2c-03ea6a1765de379b4853eca676f75562.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1355",
+            "category": "top"
+        },
+        {
+            "id": "1349",
+            "name": "КҮРТЕ TRACK STONE GRAY",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/training-pants-2-74980ce544-44fa728eaa9c9a32a08a227bad498a8d.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1349",
+            "category": "top"
+        },
+        {
+            "id": "1353",
+            "name": "КҮРТЕ TRACK ҚАРА",
+            "price": "24000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/ss-23-kepka-black-2-21d690ae63-305856512adcf4d868d806e68bfea1fe.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1353",
+            "category": "top"
+        },
+        {
+            "id": "1351",
+            "name": "КҮРТЕ TRACK ҚОЮ ҚЫЗЫЛ",
+            "price": "24000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/dzogger-7302d34d42-8dbe4b1e33f34549b379dab5bdc2a03d.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1351",
+            "category": "top"
+        },
+        {
+            "id": "1377",
+            "name": "КҮРТЕ CARGO ҚОЮ КӨК",
+            "price": "31800₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/coach-jacketgreenback-e0270034ad-3485bbeb583c3cb4f61e6332f5515168.jpeg",
+            "url": "https://qazaqrepublic.com/shop/top/1377",
+            "category": "top"
+        }
+    ],
+    "t-shirts": [
+        {
+            "id": "1500",
+            "name": "ФУТБОЛКА KÖP SÖZ ҚАРА",
+            "price": "11000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirtqrldark-blue-ccde8bdda4-7a2da7207283de6d4faee256721c0b5c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1500",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1488",
+            "name": "ФУТБОЛКА KÖP SÖZ КҮЛГІН",
+            "price": "11000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/wafflebeige-534bde376c-04c7362408ffeba5664bdb5f2a7fe092.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1488",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1479",
+            "name": "ФУТБОЛКА SOCIETY АШЫҚ КӨК",
+            "price": "11000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/t-shirt-jk-beige-e1dcbf4457-aefa8c4d18d70de9f50faacf09d15331.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1479",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1480",
+            "name": "ФУТБОЛКА SOCIETY ҚАРА",
+            "price": "11000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-jeide-green-23056b8118-a9955c8404ecd60b3bfff271d793364c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1480",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1309",
+            "name": "ФУТБОЛКА WRQ АҚ",
+            "price": "5000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodieksmint-0ecbe42f09-e1230c8a95146ea645d30291b6f25187.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1309",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1481",
+            "name": "ФУТБОЛКА WRQ САРҒЫШ",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirtdogdark-blue-dc9b80e55d-12e00b8d33d58a7f8c43bd28c1acb468.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1481",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1484",
+            "name": "ФУТБОЛКА WRQ ҚОЮ КӨК",
+            "price": "9000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/t-shirt-zipp-grey-2-209989c6c0-8993104189b6f9fd74c2a13e0dfd3cf5.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1484",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1477",
+            "name": "ФУТБОЛКА PUPPY АҚ",
+            "price": "11000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/1-3-d197c605da-15c42892053b71f6f93b7cacba62ccaf.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1477",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1482",
+            "name": "ФУТБОЛКА PUPPY ҚОЮ КӨК",
+            "price": "11000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/short-shirt-yellow-2-565bf5d17d-c3bf0a8aa53bf76d8e55b18b116a0b92.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1482",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1485",
+            "name": "ФУТБОЛКА JAQSY KÜNDER САРҒЫШ",
+            "price": "11000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/somke-mini-green-2-cd7101790f-95e8b916012e3069468b4f6b9ca69d82.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1485",
+            "category": "t-shirts"
+        },
+        {
+            "id": "1317",
+            "name": "ФУТБОЛКА EST.1465 АҚ",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/republic-black-469c416174-b7c038a492c0e3445bee5f09c65d06b8.jpeg",
+            "url": "https://qazaqrepublic.com/shop/t-shirts/1317",
+            "category": "t-shirts"
+        }
+    ],
+    "bottom": [
+        {
+            "id": "1235",
+            "name": "ШАЛБАР STREET САРҒЫШ",
+            "price": "23000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/velvet-cup-gray-wrq-fcf5d73eca-719f4382a2521eb6ba21dbd5244c0779.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1235",
+            "category": "bottom"
+        },
+        {
+            "id": "1470",
+            "name": "БЕЛДЕМШЕ SCHOOL ҚОЮ КӨК-САРҒЫШ",
+            "price": "22000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/asty-street-beige-2-89c18f42cf-c66ffd72bb1b10c21800bec93237ed6b.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1470",
+            "category": "bottom"
+        },
+        {
+            "id": "1471",
+            "name": "БЕЛДЕМШЕ SCHOOL ҚОЮ КӨК-ҚЫЗЫЛ",
+            "price": "22000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/wallet-khaki-2-ca79cc9769-a4319fab447a0d2b1573f666498400a8.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1471",
+            "category": "bottom"
+        },
+        {
+            "id": "1083",
+            "name": "БЕЛДЕМШЕ SCHOOL ҚОЮ КӨК",
+            "price": "10000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/coach-jacketblackback-3bc7b7cd5c-35fe13ee0e82219b2cbbe523fa18dd66.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1083",
+            "category": "bottom"
+        },
+        {
+            "id": "1364",
+            "name": "ШАЛБАР STREET ХАКИ",
+            "price": "23000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/stickerweb-5c0109d55a-013e5d9f52a4fc78aaefb08ffaa7cf95.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1364",
+            "category": "bottom"
+        },
+        {
+            "id": "1362",
+            "name": "ШАЛБАР STREET ГРАФИТ",
+            "price": "23000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodiedogred-c1a0118827-3a9faeaf863ffda939ea06d399f4b68f.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1362",
+            "category": "bottom"
+        },
+        {
+            "id": "1235",
+            "name": "ШАЛБАР STREET САРҒЫШ",
+            "price": "23000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/waqr-white-2-8e433b497f-e8e97b391dc48248ae8f39fadd22fe73.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1235",
+            "category": "bottom"
+        },
+        {
+            "id": "1368",
+            "name": "ШАЛБАР WIDE ХАКИ",
+            "price": "25000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/t-shirt-puppy-navy-b98a1f8ee4-9cedfa992bfd1e69927989a2afa763e4.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1368",
+            "category": "bottom"
+        },
+        {
+            "id": "884",
+            "name": "ШАЛБАР WIDE САРҒЫШ",
+            "price": "25000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/senbi-club-2-b3838c3098-e5a015fa848fd6d9d3815fa927887fa2.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/884",
+            "category": "bottom"
+        },
+        {
+            "id": "1193",
+            "name": "ШАЛБАР WIDE ҚОЮ САРҒЫШ",
+            "price": "25000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-hoodie-qrl-green-1d6c1c5241-af82fb7eef90380f768bd9044dfff00d.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1193",
+            "category": "bottom"
+        },
+        {
+            "id": "1357",
+            "name": "ШАЛБАР WIDE ҚОЮ КӨК",
+            "price": "26000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/velvet-cup-green-wrq-a5d2830595-ad5b049670f799d4221217388d3e1148.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1357",
+            "category": "bottom"
+        },
+        {
+            "id": "1361",
+            "name": "ШАЛБАР CARGO ҚОЮ САРҒЫШ",
+            "price": "26000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-fleece-gray-7642e1318c-de95b581012feb96f132c9d8fec0d4af.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bottom/1361",
+            "category": "bottom"
+        }
+    ],
+    "headwear": [
+        {
+            "id": "1402",
+            "name": "ҚҰЛАҚШЫН WRQ САРҒЫШ",
+            "price": "10000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/born-qazaq-green-2-4bc76f97dd-151f854b95a06236ddf54752142f3aac.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1402",
+            "category": "headwear"
+        },
+        {
+            "id": "1404",
+            "name": "ҚҰЛАҚШЫН WRQ ХАКИ",
+            "price": "10000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/bomber-green-b-e2cf1d657b-3420c5028950f57b350a35031ec2a13c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1404",
+            "category": "headwear"
+        },
+        {
+            "id": "1468",
+            "name": "ҚАЛПАҚ 80'S ҚОЮ КӨК",
+            "price": "6300₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/ss-23-kepka-green-2f8ac15ac9-51e674b01e77ae52e1768322517cc45f.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1468",
+            "category": "headwear"
+        },
+        {
+            "id": "1469",
+            "name": "ҚАЛПАҚ 80'S ЖАСЫЛ",
+            "price": "6300₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/coach-jacketorangeback-bd1afe1108-199d144776bbd05f62c61a9869cacccd.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1469",
+            "category": "headwear"
+        },
+        {
+            "id": "1092",
+            "name": "ҚАЛПАҚ САРҒЫШ",
+            "price": "4900₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/untitled-1-9bc254a25f-32360c098d38b9b5de688caa13af8b03.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1092",
+            "category": "headwear"
+        },
+        {
+            "id": "981",
+            "name": "ҚАЛПАҚ ҚОҢЫР",
+            "price": "7000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/training-pants-2-74980ce544-44fa728eaa9c9a32a08a227bad498a8d.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/981",
+            "category": "headwear"
+        },
+        {
+            "id": "969",
+            "name": "ҚАЛПАҚ ҚЫЗЫЛ",
+            "price": "5600₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirt-qrl-blue-dab1f4ba24-7137cbf6cf25cfb49111a23949d294d8.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/969",
+            "category": "headwear"
+        },
+        {
+            "id": "1113",
+            "name": "ҚАЛПАҚ СҰР",
+            "price": "5600₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/dzogger-7302d34d42-8dbe4b1e33f34549b379dab5bdc2a03d.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1113",
+            "category": "headwear"
+        },
+        {
+            "id": "958",
+            "name": "ҚАЛПАҚ КӨК",
+            "price": "5600₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-beanie-red-8af7df088e-4edc2d7944c77aef7486deed77a32c29.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/958",
+            "category": "headwear"
+        },
+        {
+            "id": "1139",
+            "name": "ҚАЛПАҚ ҚОЮ ЖАСЫЛ",
+            "price": "5600₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/socks-short-qr-blue-7c409a16a7-442f9cb0f294a68fa22f2247119db778.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1139",
+            "category": "headwear"
+        },
+        {
+            "id": "1074",
+            "name": "ҚАЛПАҚ ҚАРА",
+            "price": "7000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/swaeter-bari-jaqsy-bolady-beige-d1dc78da20-0925d55ec5a33c7fbcce358f056b71c5.jpeg",
+            "url": "https://qazaqrepublic.com/shop/headwear/1074",
+            "category": "headwear"
+        }
+    ],
+    "bags": [
+        {
+            "id": "1223",
+            "name": "СӨМКЕ SÖMKE ҚАРА",
+            "price": "8000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-hoodie-qrl-green-1d6c1c5241-af82fb7eef90380f768bd9044dfff00d.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1223",
+            "category": "bags"
+        },
+        {
+            "id": "1388",
+            "name": "СӨМКЕ JAQSY KÜNDER САРҒЫШ",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/dscf9852-34c6585571-320b51960f044041f71aa621168a94aa.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1388",
+            "category": "bags"
+        },
+        {
+            "id": "1385",
+            "name": "СӨМКЕ WRQ КӨК",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/1-3-d197c605da-15c42892053b71f6f93b7cacba62ccaf.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1385",
+            "category": "bags"
+        },
+        {
+            "id": "1386",
+            "name": "СӨМКЕ WRQ ҚАРА",
+            "price": "9000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/short-shirt-yellow-2-565bf5d17d-c3bf0a8aa53bf76d8e55b18b116a0b92.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1386",
+            "category": "bags"
+        },
+        {
+            "id": "1387",
+            "name": "СӨМКЕ SENBI CLUB КӨК",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/3t-shirt1465orange-046a2c4b57-c104232f24bd8e9573972298d5545bef.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1387",
+            "category": "bags"
+        },
+        {
+            "id": "1382",
+            "name": "MINI СӨМКЕ QAZAQ REPUBLIC САРҒЫШ",
+            "price": "10000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/socks-short-qr-blue-7c409a16a7-442f9cb0f294a68fa22f2247119db778.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1382",
+            "category": "bags"
+        },
+        {
+            "id": "1384",
+            "name": "MINI СӨМКЕ QAZAQ REPUBLIC ҚОЮ КӨК",
+            "price": "10000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/terry-beige-2-24e19b2113-020e53c07d4fcea1e7f1d7095a1c814c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1384",
+            "category": "bags"
+        },
+        {
+            "id": "1229",
+            "name": "MINI СӨМКЕ QAZAQ REPUBLIC ҚАРА",
+            "price": "10000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/t-shirt-senbi-club-blue-8536dda6ba-7b0b1b6b31b3a5748ab6516b578a3e5e.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1229",
+            "category": "bags"
+        },
+        {
+            "id": "1233",
+            "name": "MINI СӨМКЕ QAZAQ REPUBLIC ХАКИ",
+            "price": "10000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-tee-qrl-black-0a71cf8d28-8826d0eb38bce35b1c4d02a0f2a189e5.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1233",
+            "category": "bags"
+        },
+        {
+            "id": "1381",
+            "name": "АСПАЛЫ СӨМКЕ САРҒЫШ",
+            "price": "11000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/cap-flat-black-7c499ac40d-f6858605693a84e0711c83b6220623f6.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1381",
+            "category": "bags"
+        },
+        {
+            "id": "1389",
+            "name": "АСПАЛЫ СӨМКЕ ҚАРА",
+            "price": "11000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/socks-long-qr-white-1db5471ef7-a9a872bf2d0f0454a8dba429a2614cb9.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1389",
+            "category": "bags"
+        },
+        {
+            "id": "1342",
+            "name": "ДОРБА DAYPACK ЖАСЫЛ",
+            "price": "22000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/puffer-jacketblue-856a9cd8b4-2eea9488f1da52ddb4daa1cc8c6287b4.jpeg",
+            "url": "https://qazaqrepublic.com/shop/bags/1342",
+            "category": "bags"
+        }
+    ],
+    "kids": [
+        {
+            "id": "1495",
+            "name": "ФУТБОЛКА БАЛА SENBI CLUB ҚОЮ САРЫ",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-wide-blue-17d763-f84fbc42fd-f5969d1bcd59b4c6ada801df7832f626.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1495",
+            "category": "kids"
+        },
+        {
+            "id": "1487",
+            "name": "БҮРЖЕЙДЕ БАЛА WRQ КӨК",
+            "price": "18000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/senbi-clubblue-b2f92fe445-62378c77b22e8633ba89d4655359779a.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1487",
+            "category": "kids"
+        },
+        {
+            "id": "1489",
+            "name": "БҮРЖЕЙДЕ БАЛА WRQ САРҒЫШ",
+            "price": "18000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodiebqdark-blue-37346edc2c-03ea6a1765de379b4853eca676f75562.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1489",
+            "category": "kids"
+        },
+        {
+            "id": "1490",
+            "name": "БҮРЖЕЙДЕ БАЛА born qazaq ҚОЮ КӨК",
+            "price": "18000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/terry-beige-2-24e19b2113-020e53c07d4fcea1e7f1d7095a1c814c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1490",
+            "category": "kids"
+        },
+        {
+            "id": "1491",
+            "name": "БҮРЖЕЙДЕ БАЛА BORN QAZAQ ҚОЮ ҚЫЗЫЛ",
+            "price": "18000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/shorts-street-black-2-30d6e3ade5-d3d372fe8b586b39beb5be6df8ca64bd.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1491",
+            "category": "kids"
+        },
+        {
+            "id": "1496",
+            "name": "КЕҢЖЕЙДЕ БАЛА SENBI CLUB КҮЛГІН",
+            "price": "16000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/terry-blue-2-ccf441bab2-6b7a97a249393d0064cfa9fa3d442c48.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1496",
+            "category": "kids"
+        },
+        {
+            "id": "1498",
+            "name": "КЕҢЖЕЙДЕ БАЛА PUPPY ҚОЮ КӨК",
+            "price": "16000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/society-black-back-2-e61e14e30c-0cbce8aac1180cae6551c117694d8b49.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1498",
+            "category": "kids"
+        },
+        {
+            "id": "1493",
+            "name": "КЕҢЖЕЙДЕ БАЛА QAZAQ REPUBLIC КӨК",
+            "price": "16000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodie-bq-maroon-270a7f4bea-261a0eb5fd1ee236e97ba974ad58cfbf.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1493",
+            "category": "kids"
+        },
+        {
+            "id": "1492",
+            "name": "КЕҢЖЕЙДЕ БАЛА qazaq republic ҚОЮ КӨК",
+            "price": "16000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirt-senbi-club-blue-3d01fec793-64dad3e8fc5cab073c88c8ae51909a99.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1492",
+            "category": "kids"
+        },
+        {
+            "id": "1494",
+            "name": "ФУТБОЛКА БАЛА SENBI CLUB КӨК",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/socks-short-qr-white-da4a977e96-442f9cb0f294a68fa22f2247119db778.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1494",
+            "category": "kids"
+        },
+        {
+            "id": "1495",
+            "name": "ФУТБОЛКА БАЛА SENBI CLUB ҚОЮ САРЫ",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hoodieskatebeigeback-936ea60641-41ec30d7ddf31abcbe079f20b87d4c06.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1495",
+            "category": "kids"
+        },
+        {
+            "id": "1497",
+            "name": "ФУТБОЛКА БАЛА PUPPY ҚОЮ КӨК",
+            "price": "9000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirt-senbi-club-blue-3d01fec793-64dad3e8fc5cab073c88c8ae51909a99.jpeg",
+            "url": "https://qazaqrepublic.com/shop/kids/1497",
+            "category": "kids"
+        }
+    ],
+    "accessories": [
+        {
+            "id": "1266",
+            "name": "ӘМИЯН P1 СҰР",
+            "price": "6000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/ken-black-2-36c6a64e6f-819659cc3-446ad44ba6-f25e7455086e077747abf7ef7df06d5e.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/1266",
+            "category": "accessories"
+        },
+        {
+            "id": "1263",
+            "name": "ӘМИЯН P1 ЖАСЫЛ",
+            "price": "6000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/hat-blue-est1465-4d3d26b66a-f3415632b203ff715ff8cbc2a8f72bb3.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/1263",
+            "category": "accessories"
+        },
+        {
+            "id": "1268",
+            "name": "ӘМИЯН P1 КӨК",
+            "price": "6000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/sweatshirtdogdark-blue-dc9b80e55d-12e00b8d33d58a7f8c43bd28c1acb468.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/1268",
+            "category": "accessories"
+        },
+        {
+            "id": "1005",
+            "name": "ТЕРМО БӨТЕЛКЕ АҚ",
+            "price": "6000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-jeide-green-23056b8118-a9955c8404ecd60b3bfff271d793364c.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/1005",
+            "category": "accessories"
+        },
+        {
+            "id": "997",
+            "name": "ТЕРМО БУТЫЛКА ҚОЮ КӨК",
+            "price": "6000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/shorts-street-khaki-2-b339b01ba0-09748652b92d332fd71d571b88955563.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/997",
+            "category": "accessories"
+        },
+        {
+            "id": "1062",
+            "name": "КЕРАМИКАлық КЕСЕ BJB КӨК",
+            "price": "5000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/1-1-2e252c9892-96ad04b787d5d49eb623570f041ebc91.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/1062",
+            "category": "accessories"
+        },
+        {
+            "id": "1050",
+            "name": "КЕРАМИКАлық КЕСЕ qazaq republic АНТРАЦИТ",
+            "price": "5000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/puffer-jacketblue-856a9cd8b4-2eea9488f1da52ddb4daa1cc8c6287b4.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/1050",
+            "category": "accessories"
+        },
+        {
+            "id": "985",
+            "name": "темір КЕСЕ ömir özen ҚАРА",
+            "price": "5000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/socks-long-qrep-blue-27c398c895-a9a872bf2d0f0454a8dba429a2614cb9.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/985",
+            "category": "accessories"
+        },
+        {
+            "id": "133",
+            "name": "БЕЛДІК ҚОҢЫР",
+            "price": "5000₸",
+            "stock_status": "Жеңілдік",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-beanie-gray-8eb70e2244-4edc2d7944c77aef7486deed77a32c29.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/133",
+            "category": "accessories"
+        },
+        {
+            "id": "947",
+            "name": "БЕЛДІК ҚАРА",
+            "price": "5000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/fw23-web-makets-hoodie-zipper-qr-12fa7a2edd-c4176920c4c66b5ef1b83fd0e1700828.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/947",
+            "category": "accessories"
+        },
+        {
+            "id": "148",
+            "name": "БЕЛДІК ҚОЮ КӨК",
+            "price": "5000₸",
+            "stock_status": "жаңа",
+            "image_url": "https://qazaqrepublic.com/uploads/thumbs/backt-shirtskatemint-2376203c51-3394ac962d50c9f89477089ae3fe965f.jpeg",
+            "url": "https://qazaqrepublic.com/shop/accessories/148",
+            "category": "accessories"
+        }
+    ]
+}
